@@ -1,0 +1,15 @@
+E:\ProjectC#\ConsoleReader\ConsoleReader2\bin\Debug\net6.0\ConsoleReader2.exe
+E:\ProjectC#\ConsoleReader\ConsoleReader2\bin\Debug\net6.0\ConsoleReader2.deps.json
+E:\ProjectC#\ConsoleReader\ConsoleReader2\bin\Debug\net6.0\ConsoleReader2.runtimeconfig.json
+E:\ProjectC#\ConsoleReader\ConsoleReader2\bin\Debug\net6.0\ConsoleReader2.dll
+E:\ProjectC#\ConsoleReader\ConsoleReader2\bin\Debug\net6.0\ConsoleReader2.pdb
+E:\ProjectC#\ConsoleReader\ConsoleReader2\obj\Debug\net6.0\ConsoleReader2.csproj.AssemblyReference.cache
+E:\ProjectC#\ConsoleReader\ConsoleReader2\obj\Debug\net6.0\ConsoleReader2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectC#\ConsoleReader\ConsoleReader2\obj\Debug\net6.0\ConsoleReader2.AssemblyInfoInputs.cache
+E:\ProjectC#\ConsoleReader\ConsoleReader2\obj\Debug\net6.0\ConsoleReader2.AssemblyInfo.cs
+E:\ProjectC#\ConsoleReader\ConsoleReader2\obj\Debug\net6.0\ConsoleReader2.csproj.CoreCompileInputs.cache
+E:\ProjectC#\ConsoleReader\ConsoleReader2\obj\Debug\net6.0\ConsoleReader2.dll
+E:\ProjectC#\ConsoleReader\ConsoleReader2\obj\Debug\net6.0\refint\ConsoleReader2.dll
+E:\ProjectC#\ConsoleReader\ConsoleReader2\obj\Debug\net6.0\ConsoleReader2.pdb
+E:\ProjectC#\ConsoleReader\ConsoleReader2\obj\Debug\net6.0\ConsoleReader2.genruntimeconfig.cache
+E:\ProjectC#\ConsoleReader\ConsoleReader2\obj\Debug\net6.0\ref\ConsoleReader2.dll
